@@ -8,15 +8,15 @@
 
 
 ### Reminders
-![standup reminders](/img/standup.png)
+![standup reminders](img/standup.png)
 
 
 ### Continuous integration
-![travis](/img/travis.png)
+![travis](img/travis.png)
 
 
 ### Silliness
-![shipit](/img/shipit.png)
+![shipit](img/shipit.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 ### _Visibility_
-![jnewlang](/img/jnewland.png)
+![jnewlang](img/jnewland.png)
 
 
 ### Communication
