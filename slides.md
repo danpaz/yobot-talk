@@ -15,6 +15,10 @@
 ![travis](img/travis.png)
 
 
+### Alerts
+![scout](img/alerts.png)
+
+
 ### Silliness
 ![shipit](img/shipit.png)
 
@@ -23,7 +27,7 @@
 ## Why is it important?
 
 
-### Yobot makes our job...
+### Yobot makes our jobs...
 * Easier
 * Faster
 * More enjoyable
@@ -40,17 +44,17 @@
 * Remote presence
 
 
-
-## How can we use it better?
-
-
 ### Automation
 * Kick off travis when **deploying neodarwin**?
 * Deploy from Slack?
 
 
 ### Integrate other teams
-* Everyone should know when a bug fix or feature has been deployed
+*Everyone should know when a bug fix or feature has been deployed*
+
+
+
+## How can we use it better?
 
 
 
@@ -106,7 +110,7 @@ yobot channel #sometopic @mike @dan
 ```
 yobot list deploys <repo>
 ```
-* Yobot travis should report green
+* Yobot travis should report back green
 ```
 yobot restart travis qa-e2e
 ```
